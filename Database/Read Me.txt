@@ -1,0 +1,2 @@
+1. Create a Database named "Calories" in MYSQL
+2. Then import the given SQL File in the Import Option in MYSQL
